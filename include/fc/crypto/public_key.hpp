@@ -14,7 +14,9 @@ namespace fc { namespace crypto {
       constexpr const char* public_key_prefix[] = {
          "K1",
          "R1",
-         "WA"
+         "WA",
+	 "EOS",
+	 "TLOS"
       };
    };
 
